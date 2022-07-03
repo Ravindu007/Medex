@@ -1,0 +1,17 @@
+.home{
+  height: 100vh;
+  background-image: url("../../../src/images/cover.jpg");
+  background-position: center;
+  background-size: 100% 100%;
+  display: flex;
+
+  .text-block{  
+    h1{
+      font-size: 100px;
+    }
+    .apoinment{
+      display: flex;
+    }
+  }
+
+}
