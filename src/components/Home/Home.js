@@ -7,7 +7,7 @@ const Home = () => {
     <div className="home">
       <div className="col-sm-none col-md-4 empty"></div>
       <div className="col-sm-12 col-md-8 text-block">
-        <h1 className='animate__animated animate__bounce'>Most valuable <br />
+        <h1>Most valuable <br />
         thing is Your Health</h1>
         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p> 
         <div className="apoinment">

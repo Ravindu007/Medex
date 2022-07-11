@@ -7,7 +7,7 @@ import AppoinmenntForm from './appoinmentForm/AppoinmenntForm';
 
 const Services = () => {
 
-  const [services, setServices] = useState([
+  const [services] = useState([
     {logo: faTruckMedical, service:"Emergency Help", text:"A small river named Duden flows by their place and supplies it with the necessary regelialia.", id:1},
     {logo: faUserDoctor, service:"Qualified Doctors", text:"A small river named Duden flows by their place and supplies it with the necessary regelialia.", id:2},
     {logo: faHouseMedicalFlag, service:"Location and Directions", text:"A small river named Duden flows by their place and supplies it with the necessary regelialia.", id:3},

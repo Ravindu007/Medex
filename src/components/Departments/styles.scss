@@ -1,0 +1,12 @@
+.departments{
+  .list{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    button{
+      padding: 40px 0px;
+    }
+  }
+
+}

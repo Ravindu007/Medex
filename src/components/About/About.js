@@ -8,7 +8,7 @@ const About = () => {
       <div className="container">
         <div className="row">
           <div className="col-sm-12 col-md-6">
-            <div className="container" data-aos="fade-down-right">
+            <div className="container"  data-aos="flip-left">
               <img src={doctorImage} alt="" className='d-block img-fluid'/>
             </div>
           </div>

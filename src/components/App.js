@@ -9,6 +9,8 @@ import Home from './Home/Home'
 import Navbar from "./Navbar/Navbar"
 import Services from './serviceList/Services'
 import About from './About/About';
+import Advertise from './Advertise/Advertise';
+import Departments from './Departments/Departments';
 
 const App = () => {
   useEffect(()=>{
@@ -21,6 +23,8 @@ const App = () => {
       <Home/>
       <Services/>
       <About/>
+      <Advertise/>
+      <Departments/>
     </>
   )
 }
